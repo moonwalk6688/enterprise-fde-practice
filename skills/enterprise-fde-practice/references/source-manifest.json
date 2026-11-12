@@ -1,0 +1,550 @@
+{
+  "title": "Building an Enterprise FDE Practice",
+  "author_or_organization": "FDEInterviews",
+  "source_path": null,
+  "source_env": "ENTERPRISE_FDE_PRACTICE_SOURCE",
+  "sha256": "b4ab255c0ce7d1b42a1bf3e640cc025f2d792cbcb373a32ad65f441864f2b5a8",
+  "source_lines": 2362,
+  "source_format": "PaddleOCR-VL-1.6 Markdown",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Choose the practice you are building",
+      "start_line": 105,
+      "end_line": 183,
+      "file": "chapters/ch01.md",
+      "sections": [
+        [
+          134,
+          "Classify the work before promising a team"
+        ],
+        [
+          158,
+          "Give the practice a testable promise"
+        ]
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Admit work that deserves the capacity",
+      "start_line": 184,
+      "end_line": 256,
+      "file": "chapters/ch02.md",
+      "sections": [
+        [
+          209,
+          "Rank a portfolio with evidence"
+        ],
+        [
+          233,
+          "Stop the queue from becoming a promise"
+        ]
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Make authority visible",
+      "start_line": 257,
+      "end_line": 328,
+      "file": "chapters/ch03.md",
+      "sections": [
+        [
+          283,
+          "Define decisions more precisely than RACI"
+        ],
+        [
+          305,
+          "Protect the interfaces around the team"
+        ]
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Fund a bounded experiment",
+      "start_line": 329,
+      "end_line": 404,
+      "file": "chapters/ch04.md",
+      "sections": [
+        [
+          349,
+          "Budget the work outside the customer meeting"
+        ],
+        [
+          381,
+          "Set the next funding decision now"
+        ]
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Hire for the work you can name",
+      "start_line": 405,
+      "end_line": 468,
+      "file": "chapters/ch05.md",
+      "sections": [
+        [
+          423,
+          "Build a sourcing portfolio"
+        ],
+        [
+          447,
+          "Measure hiring without rewarding shortcuts"
+        ]
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Test judgment with shared evidence",
+      "start_line": 469,
+      "end_line": 536,
+      "file": "chapters/ch06.md",
+      "sections": [
+        [
+          491,
+          "Observe the decision, not the performance"
+        ],
+        [
+          513,
+          "Use anchored ratings and honest gaps"
+        ]
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Ramp through permissioned responsibility",
+      "start_line": 537,
+      "end_line": 606,
+      "file": "chapters/ch07.md",
+      "sections": [
+        [
+          561,
+          "Teach the whole deployment"
+        ],
+        [
+          585,
+          "Keep learning connected to field evidence"
+        ]
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Reward durable contribution",
+      "start_line": 607,
+      "end_line": 668,
+      "file": "chapters/ch08.md",
+      "sections": [
+        [
+          625,
+          "Design compensation around controllable work"
+        ],
+        [
+          645,
+          "Manage the load before it becomes attrition"
+        ]
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Plan capacity in the units that constrain you",
+      "start_line": 669,
+      "end_line": 745,
+      "file": "chapters/ch09.md",
+      "sections": [
+        [
+          700,
+          "Use ranges and visible queues"
+        ],
+        [
+          724,
+          "Make staffing a reversible decision"
+        ]
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Observe the work before designing the system",
+      "start_line": 746,
+      "end_line": 818,
+      "file": "chapters/ch10.md",
+      "sections": [
+        [
+          773,
+          "Find the owners of the constraints"
+        ],
+        [
+          795,
+          "End discovery with a decision you can defend"
+        ]
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Write an agreement that survives a change",
+      "start_line": 819,
+      "end_line": 886,
+      "file": "chapters/ch11.md",
+      "sections": [
+        [
+          839,
+          "Treat scope change as a new decision"
+        ],
+        [
+          863,
+          "Make pause and exit ordinary outcomes"
+        ]
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Make the pilot answer a question",
+      "start_line": 887,
+      "end_line": 959,
+      "file": "chapters/ch12.md",
+      "sections": [
+        [
+          912,
+          "Design the evidence before optimizing the result"
+        ],
+        [
+          936,
+          "Close the pilot without moving the target"
+        ]
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Release a system someone can operate",
+      "start_line": 960,
+      "end_line": 1030,
+      "file": "chapters/ch13.md",
+      "sections": [
+        [
+          980,
+          "Test failure and recovery as part of delivery"
+        ],
+        [
+          1007,
+          "Transfer release responsibility deliberately"
+        ]
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Work inside the customer's authority",
+      "start_line": 1031,
+      "end_line": 1100,
+      "file": "chapters/ch14.md",
+      "sections": [
+        [
+          1051,
+          "Route risk decisions to the right owner"
+        ],
+        [
+          1075,
+          "Make governance part of the delivery path"
+        ]
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Put AI behavior inside an engineering contract",
+      "start_line": 1101,
+      "end_line": 1169,
+      "file": "chapters/ch15.md",
+      "sections": [
+        [
+          1121,
+          "Separate reasoning from permission to act"
+        ],
+        [
+          1146,
+          "Measure changes against the whole workflow"
+        ]
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Escalate the decision that is blocked",
+      "start_line": 1170,
+      "end_line": 1275,
+      "file": "chapters/ch16.md",
+      "sections": [
+        [
+          1190,
+          "Run incidents on an impact clock"
+        ],
+        [
+          1230,
+          "Restore service without losing the evidence"
+        ],
+        [
+          1254,
+          "Close the cause of repeated escalation"
+        ]
+      ]
+    },
+    {
+      "number": 17,
+      "title": "Change the workflow people actually use",
+      "start_line": 1276,
+      "end_line": 1350,
+      "file": "chapters/ch17.md",
+      "sections": [
+        [
+          1303,
+          "Measure use with a stable denominator"
+        ],
+        [
+          1327,
+          "Teach tasks and verify the transfer"
+        ]
+      ]
+    },
+    {
+      "number": 18,
+      "title": "End the engagement with a capable owner",
+      "start_line": 1351,
+      "end_line": 1423,
+      "file": "chapters/ch18.md",
+      "sections": [
+        [
+          1378,
+          "Run a graduation exercise"
+        ],
+        [
+          1400,
+          "Close access, learning and commercial loose ends"
+        ]
+      ]
+    },
+    {
+      "number": 19,
+      "title": "Turn field work into supported capability",
+      "start_line": 1424,
+      "end_line": 1486,
+      "file": "chapters/ch19.md",
+      "sections": [
+        [
+          1447,
+          "Write the product decision before the generalization"
+        ],
+        [
+          1467,
+          "Count useful reuse after adoption"
+        ]
+      ]
+    },
+    {
+      "number": 20,
+      "title": "Build a platform the practice will use",
+      "start_line": 1487,
+      "end_line": 1548,
+      "file": "chapters/ch20.md",
+      "sections": [
+        [
+          1509,
+          "Operate a deployment fleet, not a collection of folders"
+        ],
+        [
+          1527,
+          "Make knowledge change the next decision"
+        ]
+      ]
+    },
+    {
+      "number": 21,
+      "title": "Measure the practice without rewarding concealment",
+      "start_line": 1549,
+      "end_line": 1604,
+      "file": "chapters/ch21.md",
+      "sections": [
+        [
+          1565,
+          "Define the clocks before comparing speed"
+        ],
+        [
+          1585,
+          "Preserve denominators and uncertainty"
+        ]
+      ]
+    },
+    {
+      "number": 22,
+      "title": "Price the obligation you are accepting",
+      "start_line": 1605,
+      "end_line": 1662,
+      "file": "chapters/ch22.md",
+      "sections": [
+        [
+          1619,
+          "Calculate the recovery requirement"
+        ],
+        [
+          1643,
+          "Reconcile the management view with finance"
+        ]
+      ]
+    },
+    {
+      "number": 23,
+      "title": "Make a defensible investment case",
+      "start_line": 1663,
+      "end_line": 1721,
+      "file": "chapters/ch23.md",
+      "sections": [
+        [
+          1684,
+          "Work through a case that does not pay back"
+        ],
+        [
+          1702,
+          "Do not spend the same benefit twice"
+        ]
+      ]
+    },
+    {
+      "number": 24,
+      "title": "Run reviews that produce decisions",
+      "start_line": 1722,
+      "end_line": 1781,
+      "file": "chapters/ch24.md",
+      "sections": [
+        [
+          1760,
+          "Close the review loop"
+        ]
+      ]
+    },
+    {
+      "number": 25,
+      "title": "Scale only the parts that work",
+      "start_line": 1782,
+      "end_line": 1840,
+      "file": "chapters/ch25.md",
+      "sections": [
+        [
+          1805,
+          "Make partners part of the operating model"
+        ],
+        [
+          1821,
+          "Know when to narrow or close the practice"
+        ]
+      ]
+    },
+    {
+      "number": 26,
+      "title": "Launch in evidence gates",
+      "start_line": 1841,
+      "end_line": 1902,
+      "file": "chapters/ch26.md",
+      "sections": [
+        [
+          1865,
+          "Use the first two review windows well"
+        ],
+        [
+          1887,
+          "Assess the practice by observable capability"
+        ]
+      ]
+    },
+    {
+      "number": 27,
+      "title": "A startup with more promises than capacity",
+      "start_line": 1903,
+      "end_line": 1942,
+      "file": "chapters/ch27.md",
+      "sections": [
+        [
+          1921,
+          "The first pilot changes the product decision"
+        ]
+      ]
+    },
+    {
+      "number": 28,
+      "title": "A vendor whose shared capacity keeps disappearing",
+      "start_line": 1943,
+      "end_line": 1984,
+      "file": "chapters/ch28.md",
+      "sections": []
+    },
+    {
+      "number": 29,
+      "title": "An internal enterprise practice must find the benefit owner",
+      "start_line": 1985,
+      "end_line": 2022,
+      "file": "chapters/ch29.md",
+      "sections": [
+        [
+          2003,
+          "Capacity is valuable before it becomes cash"
+        ]
+      ]
+    },
+    {
+      "number": 30,
+      "title": "Reset a practice that cannot leave its customers",
+      "start_line": 2023,
+      "end_line": 2062,
+      "file": "chapters/ch30.md",
+      "sections": [
+        [
+          2043,
+          "Rebuild the exit contract"
+        ]
+      ]
+    },
+    {
+      "number": 31,
+      "title": "Rehearse the leadership decisions",
+      "start_line": 2063,
+      "end_line": 2106,
+      "file": "chapters/ch31.md",
+      "sections": [
+        [
+          2083,
+          "Test whether the review changes a commitment"
+        ]
+      ]
+    },
+    {
+      "number": 32,
+      "title": "Use the operating toolkit",
+      "start_line": 2107,
+      "end_line": 2150,
+      "file": "chapters/ch32.md",
+      "sections": []
+    },
+    {
+      "number": 33,
+      "title": "A metric dictionary with explicit boundaries",
+      "start_line": 2151,
+      "end_line": 2184,
+      "file": "chapters/ch33.md",
+      "sections": [
+        [
+          2163,
+          "Delivery, adoption and durable ownership"
+        ]
+      ]
+    },
+    {
+      "number": 34,
+      "title": "A shared working vocabulary",
+      "start_line": 2185,
+      "end_line": 2207,
+      "file": "chapters/ch34.md",
+      "sections": [
+        [
+          2195,
+          "Keep the economic and learning terms distinct"
+        ]
+      ]
+    }
+  ],
+  "backmatter_start_line": 2208,
+  "generated": "2026-11-12",
+  "distribution": "Original OCR not included. Use --source with an independently owned matching file."
+}

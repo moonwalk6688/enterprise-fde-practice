@@ -1,0 +1,10 @@
+{
+  "skill": "enterprise-fde-practice",
+  "source_sha256": "b4ab255c0ce7d1b42a1bf3e640cc025f2d792cbcb373a32ad65f441864f2b5a8",
+  "source_lines": 2362,
+  "chapters": 34,
+  "coverage": "intro + continuous chapter ranges + backmatter indexed",
+  "links": "passed",
+  "reader": "chapter, image redaction, mismatch passed",
+  "ocr_warning": true
+}
